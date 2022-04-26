@@ -1,0 +1,162 @@
+############### All the methods are working for the below ones
+
+OOOOOOOO
+O   OR O
+O    B O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+
+
+OOOO
+OSROO
+OBBSO
+O B O
+O S O
+OO  O
+ OOOO
+
+
+  OOOO
+OOORSO
+OS B O
+OO B O
+OSB OO
+OOOOO
+
+
+OOOOO
+OS  OO
+O BB O
+O BR O
+OS  SO
+OOOOOO
+
+
+
+   OOOO
+  OOS O
+OOO R OOOO
+OS BBBB SO
+OOOO   OOO
+   O S O
+   OOOOO
+
+
+  OOOOOO
+OOOSO  O
+O    B OO
+O B R  SO
+OOO O OOO
+  OBO O
+  O  SO
+  OOOOO
+
+
+OOO
+O.OOO
+OBOSOO
+OSBBSO
+O B BOO
+OS B SO
+OOOOOOO
+
+
+OOOO
+OR OOOOOO
+O       O
+OSBSBSB O
+OO     OO
+ OOOOOOO
+
+
+OOOOOOO
+O  R  O
+O BBB O
+O SSS O
+OOOOOOO
+
+
+ OOOOO
+OOSSSOO
+O BBBSO
+O B.B O
+OSBBB O
+OOSS  O
+ OOOOOO
+
+
+OOOOOOOO
+O  O   O
+O      O
+OBBBOOOO
+OXS SO
+OOOOOO
+
+
+OOOO
+OR OOOO
+O BB  O
+O B S O
+OO SSOO
+ OOOOO
+
+
+ OOOO
+ O  O
+ O  OOO
+ O *  O
+OOBOB O
+O SRS O
+O    OO
+OOO  O
+  OOOO
+
+
+OOOOOOO
+O   SSO
+O B RSO
+OOBB  O
+ O  OOO
+ O  O
+ OOOO
+
+
+OOOO OOOO
+OS OOO SO
+O   B   O
+O OOBOO O
+O   BR  O
+OS OOO  O
+OOOO OOOO
+
+
+   OOOO
+OOOO ROOO
+O  BBB  O
+O  SSS  O
+OOOOO   O
+    OOOOO
+  
+
+OOOOOOOOO
+O       O
+O       O
+O  OOOS O
+O    OOOO
+O      OO
+O RB    O
+O       O
+OOOOOOOOO
+
+
+OOOOOOOOO
+O       O
+O       O
+O  OOO  O
+O    OS O
+O     O O
+O RB  O O
+O     O O
+OOOOOOOOO

@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "p3_play with vanilla and random bot",
+            "type": "python",
+            "request": "launch",
+            "program": "G://.shortcut-targets-by-id/1JC9O2hLXKztIZnYM-gCgmcIYVwiAYxps/CMPM146/gameai-p3/p3_play.py",
+            "args" : ["rollout_bot", "mcts_vanilla"],
+            "console": "integratedTerminal"
+        }
+    ]
+}
